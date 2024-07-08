@@ -20,7 +20,7 @@ The project requirement was to implement a lexical analyzer and a parser for the
     </picture>
 </p>
 
-## overview of each phase in a compiler.
+## Overview of each phase in a compiler.
 
 1. Tokenizer (Scanner+Screener):
 
@@ -75,12 +75,12 @@ To get started with the platform, follow these steps :
 
 3. Execution Instructions:
 
-❖ In order to get the output only,
+- In order to get the output only,
 ```plaintext
     Python .\myrpal.py file_name
 ```
 
-❖ In order to get the AST tree printed in the command line
+- In order to get the AST tree printed in the command line
 ```plaintext
     Python .\myrpal.py file_name -ast
 ```
